@@ -1,10 +1,1 @@
- Volume in drive F is SNAPS
- Volume Serial Number is 32A0-5A9E
-
- Directory of F:\MyProject
-
-10/23/2018  10:59 AM    <DIR>          .
-10/23/2018  10:59 AM    <DIR>          ..
-10/23/2018  10:59 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  34,745,913,344 bytes free
+change
